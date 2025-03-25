@@ -1,2 +1,2 @@
-# futurasec-ai-phising-detector
-AI Phising Detection tool
+# AI-Powered Phishing Detection System
+This project detects phishing emails using NLP and ML.

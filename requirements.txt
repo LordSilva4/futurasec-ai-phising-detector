@@ -1,0 +1,6 @@
+flask
+scikit-learn
+tensorflow
+nltk
+requests
+yara-python
